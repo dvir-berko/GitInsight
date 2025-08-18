@@ -1,0 +1,58 @@
+{
+  "repo": "pallets/flask",
+  "branch": "main",
+  "updated_at": "2025-08-15T14:57:27Z",
+  "summary": {
+    "commits": 5,
+    "additions": 217,
+    "deletions": 113,
+    "files_changed": 25
+  },
+  "commits": [
+    {
+      "sha": "85c5d93cbd049c4bd0679c36fd1ddcae8c37b642",
+      "message": "Merge branch 'stable'",
+      "author": "David Lord",
+      "date": "2025-06-12T20:48:07Z",
+      "additions": 48,
+      "deletions": 52,
+      "files_changed": 8
+    },
+    {
+      "sha": "85cc71046475f9cb3efd17d496356795961249f9",
+      "message": "svg logo",
+      "author": "David Lord",
+      "date": "2025-06-12T20:46:49Z",
+      "additions": 48,
+      "deletions": 52,
+      "files_changed": 8
+    },
+    {
+      "sha": "284273e3c5d8005bbb4b43c4d934409a5215886e",
+      "message": "Merge branch 'stable'",
+      "author": "David Lord",
+      "date": "2025-06-10T20:18:26Z",
+      "additions": 59,
+      "deletions": 3,
+      "files_changed": 3
+    },
+    {
+      "sha": "f17d9869489aea57d3fa05d5a3f1504fcf8e588c",
+      "message": "cleanup svg",
+      "author": "David Lord",
+      "date": "2025-06-10T20:18:15Z",
+      "additions": 59,
+      "deletions": 3,
+      "files_changed": 3
+    },
+    {
+      "sha": "d6009c0aeb3c7fe3a841733e9dbdfbbb63b9bfd1",
+      "message": "Merge branch 'stable'",
+      "author": "David Lord",
+      "date": "2025-06-10T04:20:46Z",
+      "additions": 3,
+      "deletions": 3,
+      "files_changed": 3
+    }
+  ]
+}
